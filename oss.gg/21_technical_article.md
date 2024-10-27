@@ -9,3 +9,6 @@ Write a technical article that can be posted on our blog (naming you as guest au
 Just as a general direction for the content. Most of the above can be tried out with different Hanko configurations (MFA coming in Oct). We’re happy to see many other ideas as well.
 
 **Points**: 750 points
+
+
+
